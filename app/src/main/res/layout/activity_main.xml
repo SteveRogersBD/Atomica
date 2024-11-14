@@ -12,6 +12,8 @@
         android:layout_alignParentBottom="true"
         app:menu="@menu/bottom_menu"
         app:itemIconTint="@color/white"
-        app:itemIconSize="40dp"/>
+        app:itemIconSize="40dp"
+        android:id="@+id/bottom_bar"/>
+
 
 </RelativeLayout>
