@@ -8,7 +8,7 @@
     <color name="colorPrimaryVariant">#FF9800</color> <!-- Darker teal -->
     <color name="colorSecondary">#FF4081</color> <!-- Bright pink accent for highlights -->
     <color name="colorSecondaryVariant">#F50057</color> <!-- Slightly darker pink -->
-    <color name="colorBackground">#101530</color> <!-- Clean white background -->
+    <color name="colorBackground">#070915</color> <!-- Clean white background -->
     <color name="colorSurface">#F5F5F5</color> <!-- Light gray for surfaces -->
     <color name="colorText">#212121</color> <!-- Dark gray for text -->
 

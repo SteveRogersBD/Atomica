@@ -2,12 +2,13 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/bottom_table"
+        android:id="@+id/bottom_home"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:icon="@drawable/ptable_icon"
-        android:title="Table"
-        android:visible="true" />
+        android:icon="@drawable/home_icon"
+        android:title="Home"
+        android:visible="true"/>
+
     <item
         android:id="@+id/bottom_analyze"
         android:layout_width="wrap_content"
@@ -30,12 +31,12 @@
         android:title="ChemBot"
         android:visible="true"/>
     <item
-        android:id="@+id/bottom_media"
+        android:id="@+id/bottom_table"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:icon="@drawable/globe_icon"
-        android:title="Social Media"
-        android:visible="true"/>
+        android:icon="@drawable/ptable_icon"
+        android:title="Table"
+        android:visible="true" />
 
 
 
