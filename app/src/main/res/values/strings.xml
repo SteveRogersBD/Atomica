@@ -2,4 +2,6 @@
     <string name="app_name">Atomica</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="quote">Chemistry: where curiosity meets the magic of molecules.</string>
+    <string name="trending_youtube_videos">Trending Youtube Videos</string>
 </resources>
